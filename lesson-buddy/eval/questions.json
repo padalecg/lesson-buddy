@@ -1,0 +1,14 @@
+[
+  {"q": "How should I help kids who think one-eighth is larger than one-fourth?", "expected": "grade3_fractions_unit_fractions.md"},
+  {"q": "What standards does the fractions lesson cover?", "expected": "grade3_fractions_unit_fractions.md"},
+  {"q": "What supports are there for English learners in the math lesson?", "expected": "grade3_fractions_unit_fractions.md"},
+  {"q": "What's the opening activity with the pizza?", "expected": "grade3_fractions_unit_fractions.md"},
+  {"q": "Where does a tree's weight actually come from?", "expected": "grade5_photosynthesis.md"},
+  {"q": "What do I need to set up a week before the plant lesson?", "expected": "grade5_photosynthesis.md"},
+  {"q": "How do I explain where a fox gets its energy?", "expected": "grade5_photosynthesis.md"},
+  {"q": "Which misconception do students have about soil?", "expected": "grade5_photosynthesis.md"},
+  {"q": "What does OREO stand for?", "expected": "grade4_persuasive_writing.md"},
+  {"q": "How can advanced writers push their argument further?", "expected": "grade4_persuasive_writing.md"},
+  {"q": "What topics can students pick for their letter?", "expected": "grade4_persuasive_writing.md"},
+  {"q": "What transition phrases should students use to connect ideas?", "expected": "grade4_persuasive_writing.md"}
+]
